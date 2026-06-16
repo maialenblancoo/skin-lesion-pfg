@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-06-05 22:41:25",
+  "config": {
+    "model": "b0",
+    "preprocessing": "none",
+    "metadata_cols": [
+      "sex",
+      "localization"
+    ],
+    "phase1_epochs": 5,
+    "max_epochs": 30,
+    "lr_phase1": 0.001,
+    "lr_phase2": 0.0001,
+    "patience": 7
+  },
+  "results": {
+    "experiment": "multimodal_b0_none_sex_localization",
+    "model": "b0",
+    "preprocessing": "none",
+    "metadata": "sex_localization",
+    "mean_auc": 0.9628431592997316,
+    "std_auc": 0.002701137681279626,
+    "fold_aucs": "[0.9627337626202609, 0.9602793664335277, 0.9676896462214974, 0.960334245491085, 0.9631787757322875]"
+  }
+}

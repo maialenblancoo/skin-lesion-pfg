@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-04 13:46:52",
+  "config": {
+    "model": "b2",
+    "preprocessing": "dullrazor",
+    "phase1_epochs": 5,
+    "max_epochs": 30,
+    "lr_phase1": 0.001,
+    "lr_phase2": 0.0001,
+    "patience": 7
+  },
+  "results": {
+    "experiment": "efficientnet_b2_dullrazor",
+    "model": "b2",
+    "preprocessing": "dullrazor",
+    "mean_auc": 0.9495080794156155,
+    "std_auc": 0.0028532081307064733,
+    "fold_aucs": "[0.9534600606499, 0.9479769296835575, 0.951280047533884, 0.9450866255558287, 0.9497367336549074]"
+  }
+}

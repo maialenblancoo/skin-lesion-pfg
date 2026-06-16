@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-06-05 19:35:30",
+  "config": {
+    "model": "b0",
+    "preprocessing": "none",
+    "metadata_cols": [
+      "age"
+    ],
+    "phase1_epochs": 5,
+    "max_epochs": 30,
+    "lr_phase1": 0.001,
+    "lr_phase2": 0.0001,
+    "patience": 7
+  },
+  "results": {
+    "experiment": "multimodal_b0_none_age",
+    "model": "b0",
+    "preprocessing": "none",
+    "metadata": "age",
+    "mean_auc": 0.9622134488022566,
+    "std_auc": 0.003999759930255068,
+    "fold_aucs": "[0.9555080617310002, 0.9602540610811745, 0.9671043883714059, 0.9638294647098035, 0.9643712681178982]"
+  }
+}

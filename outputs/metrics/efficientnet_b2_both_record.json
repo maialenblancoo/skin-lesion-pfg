@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-04 20:22:54",
+  "config": {
+    "model": "b2",
+    "preprocessing": "both",
+    "phase1_epochs": 5,
+    "max_epochs": 30,
+    "lr_phase1": 0.001,
+    "lr_phase2": 0.0001,
+    "patience": 7
+  },
+  "results": {
+    "experiment": "efficientnet_b2_both",
+    "model": "b2",
+    "preprocessing": "both",
+    "mean_auc": 0.9413516935857675,
+    "std_auc": 0.005088321184247054,
+    "fold_aucs": "[0.9382779550041155, 0.9464948099000178, 0.9478985827916085, 0.934438395838689, 0.9396487243944064]"
+  }
+}

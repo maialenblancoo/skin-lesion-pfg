@@ -1,0 +1,17 @@
+Rank,Experiment,Backbone,Preprocessing,Mean AUC,Std AUC
+1,efficientnet_b0_none,B0,None,0.9593,0.0028
+2,efficientnet_b3_none,B3,None,0.9588,0.0047
+3,efficientnet_b2_none,B2,None,0.957,0.003
+4,efficientnet_b2_colorconstancy,B2,Color Constancy,0.9552,0.0042
+5,efficientnet_b0_colorconstancy,B0,Color Constancy,0.9545,0.0051
+6,efficientnet_b1_none,B1,None,0.9534,0.0079
+7,efficientnet_b3_dullrazor,B3,DullRazor,0.9532,0.0032
+8,efficientnet_b3_colorconstancy,B3,Color Constancy,0.9532,0.0043
+9,efficientnet_b0_dullrazor,B0,DullRazor,0.952,0.0051
+10,efficientnet_b0_both,B0,Both,0.9511,0.0046
+11,efficientnet_b1_colorconstancy,B1,Color Constancy,0.9502,0.003
+12,efficientnet_b2_dullrazor,B2,DullRazor,0.9495,0.0029
+13,efficientnet_b3_both,B3,Both,0.9494,0.0033
+14,efficientnet_b1_dullrazor,B1,DullRazor,0.9466,0.004
+15,efficientnet_b1_both,B1,Both,0.9428,0.0028
+16,efficientnet_b2_both,B2,Both,0.9414,0.0051

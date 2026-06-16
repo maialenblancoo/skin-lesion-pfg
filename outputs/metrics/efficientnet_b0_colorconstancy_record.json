@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-03 17:51:50",
+  "config": {
+    "model": "b0",
+    "preprocessing": "colorconstancy",
+    "phase1_epochs": 5,
+    "max_epochs": 30,
+    "lr_phase1": 0.001,
+    "lr_phase2": 0.0001,
+    "patience": 7
+  },
+  "results": {
+    "experiment": "efficientnet_b0_colorconstancy",
+    "model": "b0",
+    "preprocessing": "colorconstancy",
+    "mean_auc": 0.954511225639439,
+    "std_auc": 0.005098050500057064,
+    "fold_aucs": "[0.9565138948445739, 0.9497347684715266, 0.9623676250354427, 0.9481959375087536, 0.9557439023368987]"
+  }
+}

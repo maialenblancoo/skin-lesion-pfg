@@ -1,0 +1,19 @@
+# Data (public HAM10000 dataset — see README for download link)
+data/
+
+# Heavy model weights (final models hosted on Hugging Face — see README)
+outputs/models/
+*.pth
+
+# Heavy generated outputs
+outputs/xai/
+outputs/logs/
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store

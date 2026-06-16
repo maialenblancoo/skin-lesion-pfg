@@ -1,0 +1,2 @@
+experiment,model,preprocessing,metadata,mean_auc,std_auc,fold_aucs
+multimodal_b0_none_sex_age_localization,b0,none,sex_age_localization,0.9636110952455079,0.002651594943013472,"[0.9660361513836956, 0.960611154392252, 0.9673089687890021, 0.9611213126331134, 0.9629778890294761]"
