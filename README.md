@@ -1,6 +1,6 @@
-# Multimodal Skin Lesion Classification — TFG
+# Multimodal Skin Lesion Classification — PFG
 
-Final degree project (TFG) at Universidad de Deusto.
+Final degree project (PFG) at Universidad de Deusto.
 
 This project develops a multimodal deep learning system for skin lesion
 classification on the **HAM10000** dataset, combining dermatoscopic images
